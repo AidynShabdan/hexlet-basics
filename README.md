@@ -1,3 +1,3 @@
-# hexlet-basics
-For training Git basics on hexlet.io
-Hi from my xubuntu!
+Hello from Aidyns Ubuntu >README.md
+cat README.md
+echo Hello from Aidyns Ubuntu
